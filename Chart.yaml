@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nginx internal
+version: "1"
+description: nginx
